@@ -4,7 +4,9 @@ Shellhacks 2021 Submission
 ![original](https://user-images.githubusercontent.com/78010942/163076858-185127a0-f19f-4250-880c-0f7de367d49f.png)
 
 Official Submission Video:
-[![Submission Video](https://img.youtube.com/vi/MNI7eNod0U0/0.jpg)] (https://www.youtube.com/watch?v=MNI7eNod0U0)
+
+
+[![Submission Video](https://img.youtube.com/vi/MNI7eNod0U0/0.jpg)]
 
 Inspiration
 Since this was all of our first time using Unity, we wanted to make a game that incorporated some sort of interesting mechanic and was relatively playable. Unfortunately, we couldn't get the latter, and using the controls is a challenge in itself. Nevertheless, we all had a lot of fun and still learned a lot about Unity.
