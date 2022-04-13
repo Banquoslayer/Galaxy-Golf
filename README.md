@@ -1,7 +1,7 @@
 # Galaxy-Golf
 Shellhacks 2021 Submission
 
-[![Galaxy Golf Submission Video](https://img.youtube.com/vi/MNI7eNod0U0/2.jpg)](https://www.youtube.com/watch?v=MNI7eNod0U0)
+[![Galaxy Golf Submission Video](https://img.youtube.com/vi/MNI7eNod0U0/3.jpg)](https://www.youtube.com/watch?v=MNI7eNod0U0)
 
 Inspiration
 Since this was all of our first time using Unity, we wanted to make a game that incorporated some sort of interesting mechanic and was relatively playable. Unfortunately, we couldn't get the latter, and using the controls is a challenge in itself. Nevertheless, we all had a lot of fun and still learned a lot about Unity.
